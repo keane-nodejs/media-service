@@ -1,0 +1,24 @@
+#Generate image from text + source image
+
+#Heroku
+
+##account :
+kienkeane@gmail.com/Keane18021999!
+
+
+part 1
+http://localhost:5000/toeic-part-one-image-generate?number=1&image=https://toeic24.net/upload/img/resized/1564986757.png&display=img
+https://engspace-image-generate.herokuapp.com/toeic-part-one-image-generate?number=1&image=https://toeic24.net/upload/img/resized/1564986757.png&display=img
+
+part 2
+http://localhost:5000/toeic-part-two-image-generate?question1=1.%20What%20time%20does%20your%20plane%20leave?&question2=question%202&question3=question%203&question4=question%204&display=img
+https://engspace-image-generate.herokuapp.com/toeic-part-two-image-generate?question1=1.%20What%20time%20does%20your%20plane%20leave?&question2=question%202&question3=question%203&question4=question%204&display=img
+
+part 3
+http://localhost:5000/toeic-part-three-image-generate?question1=Lorem%20ipsum%20dolor%20sit%20amet%20consectetur%20adipisicing?&choices1=A.%20Lorem;B.%20ipsum;C.%20dolor;D.%20amet&question2=Lorem%20ipsum%20dolor%20sit%20amet%20consectetur%20adipisicing?&choices2=A.%20Lorem;B.%20ipsum;C.%20dolor;D.%20amet&question3=Lorem%20ipsum%20dolor%20sit%20amet%20consectetur%20adipisicing?&choices3=A.%20Lorem;B.%20ipsum;C.%20dolor;D.%20amet&display=img
+https://engspace-image-generate.herokuapp.com/toeic-part-three-image-generate?question1=Lorem%20ipsum%20dolor%20sit%20amet%20consectetur%20adipisicing?&choices1=A.%20Lorem;B.%20ipsum;C.%20dolor;D.%20amet&question2=Lorem%20ipsum%20dolor%20sit%20amet%20consectetur%20adipisicing?&choices2=A.%20Lorem;B.%20ipsum;C.%20dolor;D.%20amet&question3=Lorem%20ipsum%20dolor%20sit%20amet%20consectetur%20adipisicing?&choices3=A.%20Lorem;B.%20ipsum;C.%20dolor;D.%20amet&display=img
+
+part 4
+http://localhost:5000/toeic-part-four-image-generate?question1=Lorem ipsum dolor sit amet consectetur adipisicing?&choices1=A. Lorem;B. ipsum;C. dolor;D. amet&question2=Lorem ipsum dolor sit amet consectetur adipisicing?&choices2=A. Lorem;B. ipsum;C. dolor;D. amet&question3=Lorem ipsum dolor sit amet consectetur adipisicing?&choices3=A. Lorem;B. ipsum;C. dolor;D. amet&display=img
+https://engspace-image-generate.herokuapp.com/toeic-part-four-image-generate?question1=Lorem ipsum dolor sit amet consectetur adipisicing?&choices1=A. Lorem;B. ipsum;C. dolor;D. amet&question2=Lorem ipsum dolor sit amet consectetur adipisicing?&choices2=A. Lorem;B. ipsum;C. dolor;D. amet&question3=Lorem ipsum dolor sit amet consectetur adipisicing?&choices3=A. Lorem;B. ipsum;C. dolor;D. amet&display=img
+

@@ -1,0 +1,22 @@
+{
+  "name": "watermark_image_generator",
+  "version": "1.0.1",
+  "description": "KeanePro Watermark image generator",
+  "author": "kienbt",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "node-html-to-image": "^3.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "engines": {
+    "node": "16.17.0"
+  }
+}
